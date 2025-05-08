@@ -1,0 +1,46 @@
+/*INCOMPLETO, FALTA EDITAR AINDA*/
+
+.iconGrid {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 1.5rem; /* equivalente a gap-6 */
+    padding: 1rem;
+}
+
+.iconLink {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.5rem;
+    text-decoration: none;
+    color: inherit;
+    transition: all 0.2s ease-in-out;
+}
+
+.iconLink:hover {
+    transform: translateY(-4px);
+    color: var(--primary, #3b82f6);
+}
+
+.icon {
+    width: 60px;
+    height: 60px;
+    border-radius: 9999px;
+    background-color: var(--base-200, #f3f4f6);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.5rem;
+    color: var(--primary, #3b82f6);
+    transition: background-color 0.3s ease;
+}
+
+.iconLink:hover .icon {
+    background-color: var(--base-hover, #e0e7ff);
+}
+
+.categoryName {
+    font-size: 0.875rem;
+    font-weight: 500;
+}
