@@ -1,0 +1,132 @@
+footer {
+    background-color: #1c1c1c;
+    color: #ffffff;
+    padding: 40px 60px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .footer-container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 70px;
+  }
+  
+  .footer-about {
+    flex: 1;
+    min-width: 220px;
+  }
+  
+  .footer-about h2 {
+    display: flex;
+    align-items: center;
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .footer-about p {
+    color: #cccccc;
+    line-height: 1.6;
+    font-size: 14px;
+  }
+  
+  .footer-social {
+    display: flex;
+    gap: 15px;
+    margin-top: 15px;
+  }
+  
+  .footer-social a img {
+    width: 20px;
+    height: 20px;
+  }
+  
+  .footer-info {
+    flex: 1;
+    min-width: 220px;
+    margin-left: 100px;
+  }
+  
+  .footer-info h4 {
+    margin-bottom: 15px;
+    font-size: 16px;
+  }
+  
+  .footer-info ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .footer-info li {
+    margin-bottom: 10px;
+  }
+  
+  .footer-info a {
+    color: #cccccc;
+    text-decoration: none;
+    font-size: 14px;
+  }
+  
+  .footer-info a:hover {
+    text-decoration: underline;
+  }
+  
+  .footer-categories {
+    flex: 1;
+    min-width: 220px;
+  }
+  
+  .footer-categories h4 {
+    margin-bottom: 15px;
+    font-size: 16px;
+  }
+  
+  .footer-categories ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .footer-categories li {
+    margin-bottom: 10px;
+  }
+  
+  .footer-categories a {
+    color: #cccccc;
+    text-decoration: none;
+    font-size: 14px;
+  }
+  
+  .footer-categories a:hover {
+    text-decoration: underline;
+  }
+  
+  .footer-contact {
+    flex: 1;
+    min-width: 220px;
+  }
+  
+  .footer-contact h4 {
+    margin-bottom: 15px;
+    font-size: 16px;
+  }
+  
+  .footer-contact p {
+    color: #cccccc;
+    font-size: 14px;
+    line-height: 1.6;
+  }
+  
+  .footer-bottom {
+    text-align: center;
+    margin-top: 40px;
+    padding-top: 20px;
+    border-top: 1px solid #333333;
+  }
+  
+  .footer-bottom p {
+    color: #888888;
+    font-size: 13px;
+  }
+  
