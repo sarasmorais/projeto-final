@@ -21,3 +21,9 @@
     --white: #FFFFFF;
 }
 
+body {
+    font-family: 'Inter', 'Roboto', sans-serif;
+    color: var(--dark-gray);
+    background-color: var(--white);
+    line-height: 1.5;
+}
