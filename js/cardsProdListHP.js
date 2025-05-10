@@ -113,4 +113,4 @@ function aplicarDesconto() {
 
 document.getElementById('aplicarDesconto').addEventListener('click', aplicarDesconto);
 
-document.addEventListener('DOMContentLoaded',  renderizarProdutos);
+document.addEventListener('DOMContentLoaded',  renderizarProdutos);}
