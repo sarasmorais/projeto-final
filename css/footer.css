@@ -5,127 +5,127 @@ footer {
     font-family: Arial, sans-serif;
   }
   
-  .footer-container {
+  .footerContainer {
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
     gap: 70px;
   }
   
-  .footer-about {
+  .footerAbout {
     flex: 1;
     min-width: 220px;
   }
   
-  .footer-about h2 {
+  .footerAbout h2 {
     display: flex;
     align-items: center;
     font-size: 24px;
     margin-bottom: 10px;
   }
   
-  .footer-about p {
+  .footerAbout p {
     color: #cccccc;
     line-height: 1.6;
     font-size: 14px;
   }
   
-  .footer-social {
+  .footerSocial {
     display: flex;
     gap: 15px;
     margin-top: 15px;
   }
   
-  .footer-social a img {
+  .footerSocial a img {
     width: 20px;
     height: 20px;
   }
   
-  .footer-info {
+  .footerInfo {
     flex: 1;
     min-width: 220px;
     margin-left: 100px;
   }
   
-  .footer-info h4 {
+  .footerInfo h4 {
     margin-bottom: 15px;
     font-size: 16px;
   }
   
-  .footer-info ul {
+  .footerInfo ul {
     list-style: none;
     padding: 0;
     margin: 0;
   }
   
-  .footer-info li {
+  .footerInfo li {
     margin-bottom: 10px;
   }
   
-  .footer-info a {
+  .footerInfo a {
     color: #cccccc;
     text-decoration: none;
     font-size: 14px;
   }
   
-  .footer-info a:hover {
+  .footerInfo a:hover {
     text-decoration: underline;
   }
   
-  .footer-categories {
+  .footerCategories {
     flex: 1;
     min-width: 220px;
   }
   
-  .footer-categories h4 {
+  .footerCategories h4 {
     margin-bottom: 15px;
     font-size: 16px;
   }
   
-  .footer-categories ul {
+  .footerCategories ul {
     list-style: none;
     padding: 0;
     margin: 0;
   }
   
-  .footer-categories li {
+  .footerCategories li {
     margin-bottom: 10px;
   }
   
-  .footer-categories a {
+  .footerCategories a {
     color: #cccccc;
     text-decoration: none;
     font-size: 14px;
   }
   
-  .footer-categories a:hover {
+  .footerCategories a:hover {
     text-decoration: underline;
   }
   
-  .footer-contact {
+  .footerContact {
     flex: 1;
     min-width: 220px;
   }
   
-  .footer-contact h4 {
+  .footerContact h4 {
     margin-bottom: 15px;
     font-size: 16px;
   }
   
-  .footer-contact p {
+  .footerContact p {
     color: #cccccc;
     font-size: 14px;
     line-height: 1.6;
   }
   
-  .footer-bottom {
+  .footerBottom {
     text-align: center;
     margin-top: 40px;
     padding-top: 20px;
     border-top: 1px solid #333333;
   }
   
-  .footer-bottom p {
+  .footerBottom p {
     color: #888888;
     font-size: 13px;
   }
