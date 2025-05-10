@@ -6,12 +6,12 @@ class ComponentsLoader {
     constructor() {
         this.componentsPath = 'components/';
         this.components = [
-            { id: 'cabecalho', file: 'cabecalho.html' },
-            { id: 'section1', file: 'elias.html' }, 
-            { id: 'section2', file: 'vinicius.html' },
-            { id: 'section3', file: 'adriana.html' },
-            { id: 'section4', file: 'marcos.html' },
-            { id: 'section5', file: 'daniel.html' },
+            { id: 'header', file: 'header.html' },
+            { id: 'swiperMySwiper', file: 'SwiperMySwiper.html' }, 
+            { id: 'featuredCollections', file: 'featuredCollections.html' },
+            { id: 'collectionIcon', file: 'collectionIcon.html' },
+            { id: 'productGrid', file: 'productGrid' },           
+            { id: 'specialOffer', file: 'specialOffer.html' },
             { id: 'footer', file: 'footer.html' }
         ];
     }
